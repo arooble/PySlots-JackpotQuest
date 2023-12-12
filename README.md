@@ -1,5 +1,5 @@
 # PySlots: Jackpot Quest -- Text Based Slot Machine Project 🎰
-PySlots: Jackpot Quest is a text-based slot game machine where users can deposit funds and place bets on one or more paylines by spinning the reels, with the goal of matching symbols across the paylines to secure a jackpot prize.
+PySlots: Jackpot Quest is a text-based slot machine game where users can deposit funds and place bets on one or more paylines by spinning the reels, with the goal of matching symbols across the paylines to secure a jackpot prize.
 
 
 
